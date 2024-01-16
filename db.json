@@ -1,0 +1,196 @@
+{
+  "notifications": [
+    {
+      "id": "01",
+      "title": "Meeting with Client",
+      "date": "2024-12-12",
+      "content": "Discuss project milestones and deliverables with the client.",
+      "status": "unfinished",
+      "datetime": "2024-01-16T12:42:28"
+    },
+    {
+      "id": "02",
+      "title": "Follow-up Email",
+      "date": "2024-12-13",
+      "content": "Send a follow-up email to the client regarding the project discussion.",
+      "status": "unfinished",
+      "datetime": "2024-01-16T12:42:28"
+    },
+    {
+      "id": "03",
+      "title": "Project Planning",
+      "date": "2024-12-15",
+      "content": "Plan and outline tasks for the upcoming project phases.",
+      "status": "unread",
+      "datetime": "2024-01-16T12:42:28"
+    },
+    {
+      "id": "04",
+      "title": "Team Meeting",
+      "date": "2024-12-17",
+      "content": "Conduct a team meeting to discuss progress and challenges.",
+      "status": "unfinished",
+      "datetime": "2024-01-16T12:42:28"
+    },
+    {
+      "id": "05",
+      "title": "Code Review",
+      "date": "2024-12-20",
+      "content": "Perform a code review for the latest software release.",
+      "status": "unfinished",
+      "datetime": "2024-01-16T12:42:28"
+    },
+    {
+      "id": "06",
+      "title": "Training Session",
+      "date": "2024-12-22",
+      "content": "Host a training session for team members on new technologies.",
+      "status": "unfinished",
+      "datetime": "2024-01-16T12:42:28"
+    },
+    {
+      "id": "07",
+      "title": "Client Presentation",
+      "date": "2024-12-25",
+      "content": "Prepare and deliver a presentation to showcase project updates to the client.",
+      "status": "unfinished",
+      "datetime": "2024-01-16T12:42:28"
+    },
+    {
+      "id": "08",
+      "title": "Bug Fixing",
+      "date": "2024-12-28",
+      "content": "Address and resolve reported bugs and issues in the software.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "09",
+      "title": "Release Planning",
+      "date": "2025-01-02",
+      "content": "Plan for the upcoming software release and coordinate tasks with the team.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "10",
+      "title": "Documentation Update",
+      "date": "2025-01-05",
+      "content": "Update project documentation to reflect recent changes and improvements.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "11",
+      "title": "Code Refactoring",
+      "date": "2025-01-08",
+      "content": "Refactor existing code to improve maintainability and performance.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "12",
+      "title": "Team Building Activity",
+      "date": "2025-01-12",
+      "content": "Organize a team-building activity to foster collaboration and teamwork.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "13",
+      "title": "Product Demo",
+      "date": "2025-01-15",
+      "content": "Prepare and conduct a demo of the latest product features for stakeholders.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "14",
+      "title": "Quarterly Review",
+      "date": "2025-01-18",
+      "content": "Review and analyze project performance and set goals for the next quarter.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "15",
+      "title": "Marketing Campaign Launch",
+      "date": "2025-01-22",
+      "content": "Execute and monitor the launch of the new marketing campaign.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "16",
+      "title": "Customer Feedback Analysis",
+      "date": "2025-01-25",
+      "content": "Analyze customer feedback and identify areas for improvement.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "17",
+      "title": "Sales Team Training",
+      "date": "2025-01-28",
+      "content": "Provide training to the sales team on new product features and benefits.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "18",
+      "title": "Infrastructure Upgrade",
+      "date": "2025-02-02",
+      "content": "Plan and execute an upgrade of the company's IT infrastructure.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "19",
+      "title": "Employee Recognition Event",
+      "date": "2025-02-05",
+      "content": "Organize an event to recognize and appreciate outstanding employee contributions.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "20",
+      "title": "Market Research Survey",
+      "date": "2025-02-08",
+      "content": "Launch a survey to gather insights for upcoming market research.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "21",
+      "title": "Quality Assurance Testing",
+      "date": "2025-02-12",
+      "content": "Conduct thorough testing to ensure the quality of the software release.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "22",
+      "title": "Strategic Planning Session",
+      "date": "2025-02-15",
+      "content": "Hold a strategic planning session to align goals for the upcoming year.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "23",
+      "title": "Product Packaging Redesign",
+      "date": "2025-02-18",
+      "content": "Initiate a redesign of product packaging to enhance brand presence.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    },
+    {
+      "id": "24",
+      "title": "Client Onboarding Workshop",
+      "date": "2025-02-22",
+      "content": "Conduct a workshop to onboard new clients and provide essential information.",
+      "status": "unfinished",
+      "datetime": "2023-01-03T12:42:28"
+    }
+  ]
+}
